@@ -1,3 +1,5 @@
+@charset "utf-8";
+
 /* common */
 
 body {
@@ -110,5 +112,7 @@ footer {
   opacity: 1;
   transform: none;
 }
+
+
 
 
